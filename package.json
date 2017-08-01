@@ -1,0 +1,23 @@
+{
+  "name": "find-images",
+  "version": "1.0.0",
+  "description": "Project to find and download images on Google Images when you give the keywords",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandaBernardo/find-images-js.git"
+  },
+  "author": "FernandaBernardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandaBernardo/find-images-js/issues"
+  },
+  "homepage": "https://github.com/FernandaBernardo/find-images-js#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "request": "2.81.0"
+  }
+}
